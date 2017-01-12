@@ -31,6 +31,5 @@ Use as per the PHP [array_search](http://php.net/manual/en/function.array-search
 ## Acknowledgments
 
 Icon by IconDots: https://thenounproject.com/search/?q=array+search&i=760875
-* Release it
 
 Brought to you by [@cole007](http://ournameismud.co.uk/)
