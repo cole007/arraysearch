@@ -1,0 +1,14 @@
+{
+	"name": "/arraysearch",
+	"description": "Plugin to provide filter replicating the PHP array_search function",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "@cole007",
+			"homepage": "http://ournameismud.co.uk/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
